@@ -1,4 +1,13 @@
 from django.http import HttpResponse
 
-def home(request):
-    return HttpResponse("<b>Nome:</b> Fernando Mendes Diniz<br><b>Disciplina:</b> Cloud Computing & Site Reliability Engineering")
+def home(request):     
+    html = f'''
+    <html>
+        <body>
+            <h2>Cloud Computing & Site Reliability Engineering</h2>
+            <h3>By Fernando Mendes Diniz</h3>
+            
+        </body>
+    </html>
+    '''
+    return HttpResponse(html)
