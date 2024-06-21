@@ -5,7 +5,7 @@ def home(request):
     <html>
         <body>
             <h2>Cloud Computing & Site Reliability Engineering</h2>
-            <h3>By Fernando Mendes Diniz</h3>
+            <h3>By Fernando Bonitão Diniz</h3>
             
         </body>
     </html>
