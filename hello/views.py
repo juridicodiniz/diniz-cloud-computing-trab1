@@ -20,8 +20,8 @@ def home(request):
     
   </head>
         <body>
-            <h2>Cloud Computing & Site Reliability Engineering</h2>
-            <h3>By Fernando Bonitão Diniz</h3>
+            <h2>Disciplina: Cloud Computing & Site Reliability Engineering</h2>
+            <h3><b>Aluno:</b> Fernando Mendes Diniz</h3>
             
         </body>
     </html>
